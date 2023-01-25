@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### My name is JC Edwards
+
+##### I am currently a Computer Science major at the University of Kentucky
+
